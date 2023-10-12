@@ -1,0 +1,8 @@
+<root>
+  <nodeA>Node 5</nodeA>
+  <nodeB>
+    <nodeC>Node 8.2</nodeC>
+    <nodeD>Node 2</nodeD>
+  </nodeB>
+  <nodeE>Node 11</nodeE>
+</root>
